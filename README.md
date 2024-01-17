@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 5. 👍 Approved [#7](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/7#pullrequestreview-880935458) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)-->
 <!--RECENT_ACTIVITY:end-->
 
-![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
+<!--![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
 
 <!--![Metrics](https://github.com/gagan3012/gagan3012/blob/main/github-metrics.svg)-->
