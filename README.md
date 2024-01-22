@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [**Resume here**](tbd)
 
-- ⚡ Fun fact **I am obsessed by kitty 😸meme or videos**
+- ⚡ Fun fact: I am obsessed by kitty 😸meme or videos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
